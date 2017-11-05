@@ -1,0 +1,44 @@
+.external-box {
+  max-width: 300px;
+  border: solid 1px #0e3564;
+  padding: 0px 15px 15px 15px;
+  border-radius: 10px;
+  background-color: #f6f6f6;
+  box-shadow: 3px 3px 10px #838383;
+}
+
+body {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-size: 15px;
+  color: #0e3564;
+}
+
+.animal-image {
+  padding-bottom: 15px;
+}
+
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.internal-box{
+  background-color: #fff;
+  padding: 0px 15px 0px 15px;
+  border: solid 1px #0e3564;
+  border-radius: 10px;
+}
+
+.interesting-fact {
+  font-style: italic;
+  color: #0e3564;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
